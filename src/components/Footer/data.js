@@ -1,0 +1,18 @@
+export const icons = [
+    {  id : 1,
+      src:'/images/facebook.png',
+      url:'/facebook.com',
+  },
+  {  id : 2,
+    src:'/images/instagram.png',
+    url:'/instagram.com',
+  },
+  {  id : 3,
+    src:'/images/twitter.png',
+    url:'/twitter.com',
+  },
+  {  id :4,
+    src:'/images/social.png',
+    url:'/google.com',
+  },
+  ]

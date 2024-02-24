@@ -1,0 +1,21 @@
+.container{
+    padding: 2px;
+    border: 2px solid  #00BFA6;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.icon{
+    font-size: 18px;
+}
+.switcher{
+    width: 25px;
+    aspect-ratio: 1/1;
+    background-color: #00BFA6;
+    position: absolute;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+}
